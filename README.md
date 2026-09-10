@@ -75,3 +75,6 @@ Ver `requirements.txt`:
   `docs/alcance.md`.
 - Agregar validación de datos al crear nuevos recursos.
 - Incorporar pruebas automatizadas adicionales en `tests/`.
+- Integrar la biblioteca `requests` para consultar fuentes académicas
+  externas.
+- Mejorar la salida en consola utilizando `rich` para tablas y mensajes.
