@@ -14,5 +14,13 @@
     "autor": "Mozilla Foundation",
     "tema": "desarrollo web",
     "nivel": "básico"
+  },
+  {
+    "id": 3,
+    "tipo": "artículo",
+    "titulo": "Semantic Versioning 2.0.0",
+    "autor": "Tom Preston-Werner",
+    "tema": "control de versiones",
+    "nivel": "intermedio"
   }
 ]
