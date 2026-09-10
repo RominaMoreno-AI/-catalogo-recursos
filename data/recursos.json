@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "tipo": "libro",
+    "titulo": "Clean Code",
+    "autor": "Robert C. Martin",
+    "tema": "buenas prácticas de programación",
+    "nivel": "intermedio"
+  },
+  {
+    "id": 2,
+    "tipo": "sitio web",
+    "titulo": "MDN Web Docs",
+    "autor": "Mozilla Foundation",
+    "tema": "desarrollo web",
+    "nivel": "básico"
+  }
+]
