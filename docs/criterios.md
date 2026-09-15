@@ -11,3 +11,5 @@ catálogo (libro, sitio web, video, artículo o herramienta de software).
    avanzado).
 4. **Autor o fuente**: persona, organización o plataforma que produjo el
    recurso.
+- Formato del recurso.
+- Idioma del recurso.

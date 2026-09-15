@@ -11,3 +11,7 @@ este archivo.
   documentación base en `docs/`.
 - Se agregan dos registros de ejemplo en `data/recursos.json`.
 - Se agrega una salida sencilla de identificación en `app/main.py`.
+## Documentación adicional
+
+- Se agregó el archivo de fuentes recomendadas.
+- Se añadieron nuevos criterios para clasificar recursos académicos.
