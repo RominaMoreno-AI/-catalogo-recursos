@@ -78,3 +78,10 @@ Ver `requirements.txt`:
 - Integrar la biblioteca `requests` para consultar fuentes académicas
   externas.
 - Mejorar la salida en consola utilizando `rich` para tablas y mensajes.
+## Tipos de recursos
+
+- Artículos académicos
+- Libros
+- Cursos en línea
+- Documentación técnica
+- Tutoriales
